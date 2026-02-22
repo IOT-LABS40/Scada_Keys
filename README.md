@@ -1,11 +1,11 @@
 # Repositorio de Llaves
 WRT - M.Rodri
-	Values: BLOCK || Crypto
+	Values: BLOCK || DATA
 
 
 SUSC - F.Mosq
-	Values: FREE || BLOCK || Crypto
+	Values: FREE || BLOCK || DATA
 
 
 Logger - F.Mosq
-	Values: SKIP || Crypto
+	Values: SKIP || DATA
